@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Movies-App</string>
+    <string name="text_no_connectivity">No internet connection</string>
+    <string name="text_movies_header">Movies Header</string>
+    <string name="text_connectivity">Connected</string>
+    <string name="empty_list">No data</string>
+    <string name="general_error_message">There is a problem. Please try again later</string>
+    <string name="available">Available</string>
+    <string name="not_available">Sold out</string>
 </resources>
